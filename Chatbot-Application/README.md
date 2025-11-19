@@ -16,3 +16,10 @@ A simple rule-based chatbot built using Python that responds to user input.
 ## 🚀 How to Run (Terminal)
 ```bash
 python chatbot.py
+
+---
+
+## 🔮 Future Improvements
+- Add NLP (NLTK / spaCy)
+- Add a Web interface (Flask / Streamlit)
+- Add speech input/output
